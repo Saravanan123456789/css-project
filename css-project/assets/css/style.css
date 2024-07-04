@@ -1,0 +1,66 @@
+#topbar
+{
+background-color:hsl(237, 38%, 28%);
+height:10px;
+width:100%;
+}
+body
+{
+background-color:white;
+}
+#container
+{
+height:700px;
+width:70%;
+margin:0px auto;
+}
+#header
+{
+height:90px;
+background-color:#ffffff;
+}
+#header img
+{
+height:80px;
+}
+#header ul
+{
+float:right;
+margin-top:35px;
+}
+#header ul li
+{
+display:inline;
+margin-right:35px;
+}
+#header ul li a  
+{
+color:hwb(239 16% 64%);
+text-decoration:none;
+font-size:18px;
+}
+#Banner img
+{
+width:100%;
+padding-bottom:20px;
+}
+#cheeseburger img
+{
+width:50%;
+float:left;
+}
+#steamedcheeseburger img
+{
+width:50%;
+float:left;
+}
+#cheeseburger img
+{
+    width:50%;
+    
+    
+}
+#contact
+{
+    -moz-box-align: baseline;
+}
